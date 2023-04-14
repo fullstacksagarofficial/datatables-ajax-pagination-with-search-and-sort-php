@@ -1,0 +1,13 @@
+.btn,
+button,
+input {
+    border-radius: 0 !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.dataTables_wrapper .dt-buttons {
+    float: none;
+    text-align: center;
+    display: block;
+}
